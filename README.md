@@ -2,7 +2,7 @@
 
 PyODCSVConverter (Python OpenDocument Comma Separated Values Converter) is a Python 3 script that automatically exports every sheet within a spreadsheet document to a CSV file.
 
-This script was heavily based on [PyODConverter](https://github.com/mirkonasato/pyodconverter/).
+This script was heavily based on [PyODConverter](https://github.com/mirkonasato/pyodconverter/). The functionality of the script was also inspired by [this StackOverflow post](https://stackoverflow.com/q/20714857) made by user2849202.
 
 (Please see the warning about flashing lights after the Usage section)
 
